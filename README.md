@@ -1,4 +1,11 @@
 
+
+http://julian1.github.io/
+
+# Git pages can do submodule indirection 
+http://julian1.github.io/x/iso19139.mcp-2.0/schema.xsd
+
+
 https://help.github.com/articles/using-submodules-with-pages/
 
 

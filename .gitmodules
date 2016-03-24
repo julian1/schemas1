@@ -1,5 +1,5 @@
 [submodule "x"]
-	path = x
+	path = schema-plugins
 	url = https://github.com/aodn/schema-plugins
 	branch = master
 

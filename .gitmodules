@@ -3,10 +3,4 @@
 	url = https://github.com/aodn/schema-plugins
 	branch = master
 
-[submodule "codelist"]
-	path = codelist
-	url = https://github.com/aodn/codelist
-	branch = master
-
-
 

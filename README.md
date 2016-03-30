@@ -1,5 +1,5 @@
 
-#### Install
+#### Install and serve locally
 
 (Not Jekyll)
 
@@ -11,20 +11,18 @@ python /usr/lib/python2.7/SimpleHTTPServer.py
 
 #### Notes
 
-##### Required path, 
+##### Required url path
 
 http://schemas.aodn.org.au/mcp-2.0/schema.xsd
 
-##### My Githu
+##### cname url
 
-http://julian1.github.io/
+http://julian1.github.io/schemas1/
 
-##### Git pages can do submodule indirection 
-
-http://julian1.github.io/x/iso19139.mcp-2.0/schema.xsd
+##### Git pages can do submodule indirection
 
 https://help.github.com/articles/using-submodules-with-pages/
 
-git submodule add -b master https://github.com/aodn/schema-plugins  x   
+git submodule add -b master https://github.com/aodn/schema-plugins schema-plugins
 
 
